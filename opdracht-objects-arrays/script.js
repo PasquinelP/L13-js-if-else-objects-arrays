@@ -41,7 +41,7 @@ console.log(myColors);
 
 myColors.push({greeting: "hi ik ben een object"});
 lastItem = myColors[myColors.length - 1]
-console.log(lastItem);
+console.log(lastItem.greeting);
 
 // Deel 3: Bekijk een "real-life" object
 
